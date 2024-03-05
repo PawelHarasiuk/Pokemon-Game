@@ -2,6 +2,6 @@
 
 ### Features:
 
-Create a trainer and choose a starter Pokemon.
-Encounter wild Pokemon to battle.
-Train your Pokemon by battling wild Pokemon.
+- Create a trainer and choose a starter Pokemon.
+- Encounter wild Pokemon to battle.
+- Train your Pokemon by battling wild Pokemon.
